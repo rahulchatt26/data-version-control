@@ -1,4 +1,4 @@
-data-version-control\
+data-version-control
 ==============================
 
 This is the test project to learn DVC
